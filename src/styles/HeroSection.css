@@ -1,0 +1,17 @@
+.hero-section {
+    text-align: center;
+    color: rgb(34, 31, 31);
+    padding: 100px 20px;
+  }
+  .cta-button {
+    background-color: #3498db;
+    color: white;
+    padding: 15px 30px;
+    border: none;
+    border-radius: 5px;
+    font-size: 18px;
+    cursor: pointer;
+  }
+  .cta-button:hover {
+    background-color: #2980b9;
+  }

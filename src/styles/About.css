@@ -1,0 +1,14 @@
+.bx {
+    text-align: center;
+    margin-top: 110px;
+    padding: 100px;
+    background-color: #f5f5f5;
+  }
+  .about-h2 {
+    font-size: 36px;
+    color: #333;
+  }
+  .about-p {
+    font-size: 18px;
+    color: #666;
+  }
